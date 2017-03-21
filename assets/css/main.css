@@ -1,0 +1,21 @@
+.btn.is-disabled {
+    background-color: gray;
+    border-color: gray;
+    pointer-events: none;
+}
+
+.is-masked {
+   background-color: #333;
+}
+
+.is-hidden {
+    display:none;
+}
+.is-win {
+    color: green;
+    font-weight: bolder;
+}
+.is-loss {
+    color: red;
+    font-weight: bolder;
+}
